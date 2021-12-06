@@ -1,1 +1,5 @@
-# Index
+---
+permalink: /
+redirect_from:
+  - /index
+---
