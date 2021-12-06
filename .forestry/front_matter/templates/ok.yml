@@ -2,3 +2,5 @@
 label: OK
 hide_body: false
 fields: []
+pages:
+- ok_doc.md
