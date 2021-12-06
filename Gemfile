@@ -1,1 +1,3 @@
-gem 'jekyll-menus', '~> 0.6.1'
+source 'https://rubygems.org'
+gem 'jekyll-menus'
+gem "jekyll-octicons"
