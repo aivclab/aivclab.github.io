@@ -18,3 +18,4 @@ fields:
   label: Body
 pages:
 - _posts/links.md
+- draft/neural-fields.md
