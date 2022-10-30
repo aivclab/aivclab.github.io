@@ -4,6 +4,11 @@ auto_deploy: true
 admin_path: admin
 webhook_url: 
 sections:
+- type: directory
+  path: draft
+  label: Drafts
+  create: all
+  match: "**/*"
 - type: jekyll-pages
   label: Pages
   create: all
