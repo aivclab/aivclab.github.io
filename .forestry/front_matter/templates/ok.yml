@@ -17,4 +17,5 @@ fields:
       format: markdown
   label: Body
 pages:
+- draft/volume.md
 - ok_doc.md
