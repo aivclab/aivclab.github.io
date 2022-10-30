@@ -17,5 +17,6 @@ fields:
       format: markdown
   label: Body
 pages:
+- draft/modulation.md
 - draft/volume.md
 - ok_doc.md
