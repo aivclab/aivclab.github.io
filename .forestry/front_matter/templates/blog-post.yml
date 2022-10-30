@@ -18,4 +18,5 @@ fields:
   label: Body
 pages:
 - _posts/links.md
+- draft/Blog Posts/webtek.md
 - draft/neural-fields.md
