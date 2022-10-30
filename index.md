@@ -4,10 +4,7 @@ redirect_from:
 - "/index"
 
 ---
----
-
----
-[![Github](https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg)](https://github.com/aivclab)
+[![Github](https://raw.githubusercontent.com/pything/devpack/master/.github/images/octocat.svg)](https://github.com/pything)
 
 | __Vision__ | __Jord__ | __Heimdallr__ |
 |---|---|---|
