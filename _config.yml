@@ -1,3 +1,7 @@
 theme: jekyll-theme-tactile
 title: Aivclab
 description: Projects
+logo: /uploads/aivclab.svg
+#show_downloads: true
+#google_analytics:
+#theme: jekyll-theme-minimal
