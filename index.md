@@ -11,6 +11,11 @@ page_sections:
     link_text: "/projects"
   - link: Home
     link_text: "/"
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/tegning.svg"
+  slug: ''
+  caption: ''
 
 ---
 \[!\[Github\]([https://raw.githubusercontent.com/pything/devpack/master/.github/images/octocat.svg](https://raw.githubusercontent.com/pything/devpack/master/.github/images/octocat.svg "https://raw.githubusercontent.com/pything/devpack/master/.github/images/octocat.svg"))\]([https://github.com/aivclab](https://github.com/aivclab "https://github.com/aivclab"))
