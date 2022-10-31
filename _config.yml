@@ -1,9 +1,9 @@
 #theme: jekyll-theme-primer
-theme: jekyll-theme-minimal
-#theme: jekyll-theme-tactile
+#theme: jekyll-theme-minimal
+theme: jekyll-theme-tactile
 title: Aivclab
 description: Projects
-#logo: /uploads/aivclab.svg
+logo: /uploads/aivclab.svg
 #show_downloads: true
 #google_analytics:
 #theme: jekyll-theme-minimal
