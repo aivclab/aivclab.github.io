@@ -4,13 +4,19 @@ hide_body: false
 fields:
 - name: layout
 <<<<<<< HEAD
+<<<<<<< HEAD
   type: text
   config:
     required: false
   label: Layout
 =======
+=======
+>>>>>>> master
   label: Layout
   type: text
   hidden: false
   default: default
+<<<<<<< HEAD
 >>>>>>> 5eabd53 (templates)
+=======
+>>>>>>> master
