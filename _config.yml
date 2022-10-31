@@ -1,20 +1,13 @@
-#theme: jekyll-theme-primer
-#theme: jekyll-theme-minimal
-theme: jekyll-theme-tactile
+---
+theme: ''
 title: Aivclab
 description: Projects
-logo: /uploads/aivclab.svg
-#show_downloads: true
-#google_analytics:
-#theme: jekyll-theme-minimal
-
-# Build settings
+logo: "/uploads/aivclab.svg"
 defaults:
-  - scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "default" # this ensures all content renders with layouts/default.html
-
+- scope:
+    path: ''
+  values:
+    layout: default
 plugins:
-  - jekyll-feed
-  - jekyll-menus
+- jekyll-feed
+- jekyll-menus
