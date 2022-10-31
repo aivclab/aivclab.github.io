@@ -4,6 +4,11 @@ redirect_from:
 - "/index"
 
 ---
+---
+title: Homepage
+menus: header
+---
+
 [![Github](https://raw.githubusercontent.com/pything/devpack/master/.github/images/octocat.svg)](https://github.com/aivclab)
 
 
