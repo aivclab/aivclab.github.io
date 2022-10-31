@@ -7,3 +7,11 @@ fields:
   config:
     required: false
   label: Layout
+- name: a
+  type: blocks
+  label: a
+  template_types:
+  - navigation-header
+  config:
+    min: 
+    max: 
