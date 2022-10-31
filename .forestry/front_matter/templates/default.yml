@@ -3,7 +3,14 @@ label: default
 hide_body: false
 fields:
 - name: layout
+<<<<<<< HEAD
   type: text
   config:
     required: false
   label: Layout
+=======
+  label: Layout
+  type: text
+  hidden: false
+  default: default
+>>>>>>> 5eabd53 (templates)
