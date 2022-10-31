@@ -20,3 +20,4 @@ pages:
 - draft/Projects/vision.md
 - draft/modulation.md
 - draft/volume.md
+- projects.*.md
