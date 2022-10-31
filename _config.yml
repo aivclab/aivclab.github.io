@@ -1,4 +1,5 @@
-theme: jekyll-theme-tactile
+theme: jekyll-theme-primer
+#theme: jekyll-theme-tactile
 title: Aivclab
 description: Projects
 logo: /uploads/aivclab.svg
