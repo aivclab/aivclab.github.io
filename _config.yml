@@ -8,5 +8,13 @@ logo: /uploads/aivclab.svg
 #google_analytics:
 #theme: jekyll-theme-minimal
 
+# Build settings
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default" # this ensures all content renders with layouts/default.html
+
 plugins:
-- jekyll-menus
+  - jekyll-feed
+  - jekyll-menus
