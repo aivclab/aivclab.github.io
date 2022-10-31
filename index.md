@@ -5,81 +5,80 @@ date: 2022-10-30T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
-  navigation:
-  - link: "/"
-    link_text: Ubuild
-  - link: "#swap"
-    link_text: Swap
-  - link: "#customize"
-    link_text: Customize
-  - link: "#responsive"
-    link_text: Responsive
-  - link: "#blocks"
-    link_text: Blocks
+  logo: "/uploads/tegning.svg"
+  navigation: []
   cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
-- template: hero-banner-w-image
-  block: hero-2
-  slug: features
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
-  cta:
-    enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
-  image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
-    alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  slug: swap
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
-  media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  slug: customize
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can be edited in Forestry
-    CMS.
-  media:
-    image: "/uploads/2018/06/21/edit.gif"
-    alt_text: Customize Blocks
-- template: 1-column-text
-  block: one-column-1
-  slug: responsive
-  headline: 16 Fully Responsive Design Blocks
-  content: |
-    The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
-    create new sites and make them fully customizable.
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
-  slug: blocks
+    url: ''
+    button_text: ''
 - template: detail-content
   block: text-1
-  headline: Steps to Build a Site!
-  content: <p>uBuild is an open-source Jekyll based demo that doubles as a builder
-    tool inside the Forestry content manager.</p><ol><li><p><a href="https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll">Import
-    this demo in Forestry</a>.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
-    article</a> and create your own Blocks.</p></li><li><p>Add and customize the available
-    Blocks and preview them as you go along.</p></li></ol>
-- template: simple-footer
-  block: footer-1
-  content: Made with ❤︎ in Canada
+  content: <p>[![Github](<a href="https://raw.githubusercontent.com/pything/devpack/master/.github/images/octocat.svg"
+    title="https://raw.githubusercontent.com/pything/devpack/master/.github/images/octocat.svg">https://raw.githubusercontent.com/pything/devpack/master/.github/images/octocat.svg</a>)](<a
+    href="https://github.com/aivclab" title="https://github.com/aivclab">https://github.com/aivclab</a>)</p><p>|
+    __Vision__ | __Jord__ | __Heimdallr__ |</p><p>|---|---|---|</p><p>| ![logo](<img
+    src="https://sintefneodroid.github.io/assets/img/neodroid.png">)| ![logo](<a href="https://raw.githubusercontent.com/aivclab/jord/master/.github/images/header.svg"
+    title="https://raw.githubusercontent.com/aivclab/jord/master/.github/images/header.svg">https://raw.githubusercontent.com/aivclab/jord/master/.github/images/header.svg</a>)
+    | ![logo](<a href="https://raw.githubusercontent.com/aivclab/heimdallr/develop/.github/images/horn.svg"
+    title="https://raw.githubusercontent.com/aivclab/heimdallr/develop/.github/images/horn.svg">https://raw.githubusercontent.com/aivclab/heimdallr/develop/.github/images/horn.svg</a>)
+    |</p><p>| [Github](<a href="https://github.com/aivclab/vision" title="https://github.com/aivclab/vision">https://github.com/aivclab/vision</a>)
+    | [Github](<a href="https://github.com/aivclab/jord" title="https://github.com/aivclab/jord">https://github.com/aivclab/jord</a>)
+    | [Github](<a href="https://github.com/aivclab/heimdallr" title="https://github.com/aivclab/heimdallr">https://github.com/aivclab/heimdallr</a>)
+    |</p><p>| [Pypi](<a href="https://pypi.org/project/neodroidvision" title="https://pypi.org/project/neodroidvision">https://pypi.org/project/neodroidvision</a>)
+    | [Pypi](<a href="https://pypi.org/project/jord" title="https://pypi.org/project/jord">https://pypi.org/project/jord</a>)
+    | [Pypi](<a href="https://pypi.org/project/heimdallr" title="https://pypi.org/project/heimdallr">https://pypi.org/project/heimdallr</a>)
+    |</p><p>| [Docs](<a href="https://aivclab.github.io/vision/github/html/index.html"
+    title="https://aivclab.github.io/vision/github/html/index.html">https://aivclab.github.io/vision/github/html/index.html</a>)
+    | [Docs](<a href="https://aivclab.github.io/jord/github/html/index.html" title="https://aivclab.github.io/jord/github/html/index.html">https://aivclab.github.io/jord/github/html/index.html</a>)
+    | [Docs](<a href="https://aivclab.github.io/heimdallr/github/html/index.html"
+    title="https://aivclab.github.io/heimdallr/github/html/index.html">https://aivclab.github.io/heimdallr/github/html/index.html</a>)
+    |</p><p>| __Volume__ | __Modulation__ | __CachedShadowMaps__ |</p><p>|---|---|---|</p><p>|
+    ![logo](<a href="https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg"
+    title="https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg">https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg</a>)|
+    ![logo](<a href="https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg"
+    title="https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg">https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg</a>)
+    | ![logo](<a href="https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg"
+    title="https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg">https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg</a>)
+    |</p><p>| [Github](<a href="https://github.com/aivclab/volume" title="https://github.com/aivclab/volume">https://github.com/aivclab/volume</a>)
+    | [Github](<a href="https://github.com/aivclab/modulation" title="https://github.com/aivclab/modulation">https://github.com/aivclab/modulation</a>)
+    | [Github](<a href="https://github.com/aivclab/CachedShadowMaps" title="https://github.com/aivclab/CachedShadowMaps">https://github.com/aivclab/CachedShadowMaps</a>)
+    |</p><p>| [Pypi](<a href="https://pypi.org/project/volume" title="https://pypi.org/project/volume">https://pypi.org/project/volume</a>)
+    | [Pypi](<a href="https://pypi.org/project/modulation" title="https://pypi.org/project/modulation">https://pypi.org/project/modulation</a>)
+    |   |</p><p>| [Docs](<a href="https://aivclab.github.io/volume/github/html/index.html"
+    title="https://aivclab.github.io/volume/github/html/index.html">https://aivclab.github.io/volume/github/html/index.html</a>)
+    | [Docs](<a href="https://aivclab.github.io/modulation/github/html/index.html"
+    title="https://aivclab.github.io/modulation/github/html/index.html">https://aivclab.github.io/modulation/github/html/index.html</a>)
+    |  |</p><p>| __Wtek__ | __temporal_fork__ | __AndroidVision__ |</p><p>|---|---|---|</p><p>|
+    ![logo](<a href="https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg"
+    title="https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg">https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg</a>)|
+    ![logo](<a href="https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg"
+    title="https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg">https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg</a>)
+    | ![logo](<a href="https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg"
+    title="https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg">https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg</a>)
+    |</p><p>| [Github](<a href="https://github.com/aivclab/wtek" title="https://github.com/aivclab/wtek">https://github.com/aivclab/wtek</a>)
+    | [Github](<a href="https://github.com/aivclab/temporal_fork" title="https://github.com/aivclab/temporal_fork">https://github.com/aivclab/temporal_fork</a>)
+    | [Github](<a href="https://github.com/aivclab/AndroidVision" title="https://github.com/aivclab/AndroidVision">https://github.com/aivclab/AndroidVision</a>)
+    |</p><p>| __Multicam__ | __streamserver__ | __pyunirpc__ |</p><p>|---|---|---|</p><p>|
+    ![logo](<a href="https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg"
+    title="https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg">https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg</a>)|
+    ![logo](<a href="https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg"
+    title="https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg">https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg</a>)
+    | ![logo](<a href="https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg"
+    title="https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg">https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg</a>)
+    |</p><p>| [Github](<a href="https://github.com/aivclab/Multicam" title="https://github.com/aivclab/Multicam">https://github.com/aivclab/Multicam</a>)
+    | [Github](<a href="https://github.com/aivclab/streamserver" title="https://github.com/aivclab/streamserver">https://github.com/aivclab/streamserver</a>)
+    | [Github](<a href="https://github.com/aivclab/pyunirpc" title="https://github.com/aivclab/pyunirpc">https://github.com/aivclab/pyunirpc</a>)
+    |</p><p>| __dmr__ | __pose-recorder__ | __NeodroidCameraApp__ |</p><p>|---|---|---|</p><p>|
+    ![logo](<a href="https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg"
+    title="https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg">https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg</a>)|
+    ![logo](<a href="https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg"
+    title="https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg">https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg</a>)
+    | ![logo](<a href="https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg"
+    title="https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg">https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg</a>)
+    |</p><p>| [Github](<a href="https://github.com/aivclab/dmr" title="https://github.com/aivclab/dmr">https://github.com/aivclab/dmr</a>)
+    | [Github](<a href="https://github.com/aivclab/pose-recorder" title="https://github.com/aivclab/pose-recorder">https://github.com/aivclab/pose-recorder</a>)
+    | [Github](<a href="https://github.com/aivclab/NeodroidCameraApp" title="https://github.com/aivclab/NeodroidCameraApp">https://github.com/aivclab/NeodroidCameraApp</a>)
+    |</p>
+  headline: ''
 
 ---
 \[!\[Github\]([https://raw.githubusercontent.com/pything/devpack/master/.github/images/octocat.svg](https://raw.githubusercontent.com/pything/devpack/master/.github/images/octocat.svg "https://raw.githubusercontent.com/pything/devpack/master/.github/images/octocat.svg"))\]([https://github.com/aivclab](https://github.com/aivclab "https://github.com/aivclab"))
