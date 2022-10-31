@@ -1,5 +1,8 @@
 ---
 header:
-- url: https://alexandra.dk/about-the-alexandra-institute/
+- url: "/"
   weight: 1
+  title: Home
+- url: https://alexandra.dk/about-the-alexandra-institute/
+  weight: 2
   title: Company
