@@ -5,6 +5,10 @@ admin_path: admin
 webhook_url: 
 sections:
 - type: document
+  path: _config_development.yml
+  label: Development Config
+  match: "**/*"
+- type: document
   path: _config_staging.yml
   label: Staging Config
 - type: document
