@@ -1,4 +1,5 @@
+---
 header:
-  - url: /api
-    title: API Documentation
-    identifier: api
+- url: https://alexandra.dk/about-the-alexandra-institute/
+  weight: 1
+  title: Company
