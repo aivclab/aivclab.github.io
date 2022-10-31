@@ -4,6 +4,20 @@ auto_deploy: true
 admin_path: admin
 webhook_url: 
 sections:
+- type: jekyll-posts
+  label: Posts
+  create: all
+- type: jekyll-pages
+  label: Pages
+  create: all
+  new_doc_ext: app
+- type: directory
+  path: draft
+  label: Drafts
+  create: all
+  match: "**/*"
+- type: heading
+  label: Configs
 - type: document
   path: _config_development.yml
   label: Development Config
@@ -13,18 +27,6 @@ sections:
 - type: document
   path: _config.yml
   label: Config
-- type: directory
-  path: draft
-  label: Drafts
-  create: all
-  match: "**/*"
-- type: jekyll-pages
-  label: Pages
-  create: all
-  new_doc_ext: app
-- type: jekyll-posts
-  label: Posts
-  create: all
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
