@@ -4,13 +4,15 @@ auto_deploy: true
 admin_path: admin
 webhook_url: 
 sections:
+- type: jekyll-pages
+  label: All
+  create: all
+  new_doc_ext: ''
+- type: heading
+  label: __
 - type: jekyll-posts
   label: Posts
   create: all
-- type: jekyll-pages
-  label: Pages
-  create: all
-  new_doc_ext: app
 - type: directory
   path: draft
   label: Drafts
