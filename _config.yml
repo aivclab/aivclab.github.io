@@ -1,5 +1,4 @@
----
-#theme: ''
+theme: jekyll-theme-tactile
 title: Aivclab
 description: Projects
 logo: "/uploads/aivclab.svg"
