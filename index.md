@@ -3,13 +3,14 @@ layout: blocks
 title: Homepage
 date: 2022-10-30T23:00:00.000+00:00
 page_sections:
-- template: navigation-header-w-button
-  block: header-2
+- template: navigation-header
+  block: header-1
   logo: "/uploads/tegning.svg"
-  navigation: []
-  cta:
-    url: ''
-    button_text: ''
+  navigation:
+  - link: Projects
+    link_text: "/projects"
+  - link: Home
+    link_text: "/"
 
 ---
 \[!\[Github\]([https://raw.githubusercontent.com/pything/devpack/master/.github/images/octocat.svg](https://raw.githubusercontent.com/pything/devpack/master/.github/images/octocat.svg "https://raw.githubusercontent.com/pything/devpack/master/.github/images/octocat.svg"))\]([https://github.com/aivclab](https://github.com/aivclab "https://github.com/aivclab"))
