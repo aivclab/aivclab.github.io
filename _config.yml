@@ -7,3 +7,6 @@ logo: /uploads/aivclab.svg
 #show_downloads: true
 #google_analytics:
 #theme: jekyll-theme-minimal
+
+plugins:
+- jekyll-menus
