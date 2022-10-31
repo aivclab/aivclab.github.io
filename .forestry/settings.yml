@@ -7,7 +7,7 @@ sections:
 - type: jekyll-pages
   label: All
   create: all
-  new_doc_ext: ''
+  new_doc_ext: app
 - type: heading
   label: __
 - type: jekyll-posts
