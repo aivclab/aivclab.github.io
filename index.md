@@ -32,7 +32,7 @@ body: ''
 
 | __Multicam__ | __streamserver__ | __pyunirpc__ |
 |---|---|---|
-| ![logo](https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg)| ![logo](https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg) | ![logo](https://raw.githubusercontent.com/aivclab/aivclab.github.io/master/uploads/tegning.svg) |
+| ![logo](https://raw.githubusercontent.com/aivclab/vision/b493c9d752f91d715e3d8a6a8b13275ab3dd2241/.github/images/python.svg)| ![logo](https://raw.githubusercontent.com/aivclab/vision/b493c9d752f91d715e3d8a6a8b13275ab3dd2241/.github/images/python.svg) | ![logo](https://raw.githubusercontent.com/aivclab/vision/b493c9d752f91d715e3d8a6a8b13275ab3dd2241/.github/images/python.svg) |
 | [Github](https://github.com/aivclab/Multicam) | [Github](https://github.com/aivclab/streamserver) | [Github](https://github.com/aivclab/pyunirpc) |
 
 
